@@ -1,2 +1,20 @@
-# Short-Gen-AI-V5
-An app which lets you make 1 min length short videos just by giving the content as text. And the app analyze the text content given to it, and searches for stock videos related to the content and fetches it all and make a 1min long video with voiceover (Tamil) to directly upload it in YT Shorts.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1jLUTGqmQwdcErlMsUog7t4oAOp5eq4aJ
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

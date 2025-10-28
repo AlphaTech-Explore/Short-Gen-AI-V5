@@ -1,0 +1,5 @@
+{
+  "name": "Short Gen AI V5",
+  "description": "Create 1-minute short videos with Tamil voiceover from text content. The app analyzes your text, finds related stock footage, and combines it with a generated voiceover to produce a video ready for social media.",
+  "requestFramePermissions": []
+}
